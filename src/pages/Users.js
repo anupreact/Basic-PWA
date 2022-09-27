@@ -31,7 +31,7 @@ const Users = () => {
       <div style={{textAlign:"center"}}>
         {
           mode==="offline" 
-          ? "You are in Offline Mode or there might be some issues with your Internet connection"
+          ? "You are in Offline edited Mode or there might be some issues with your Internet connection"
           : null
         }
       </div>
