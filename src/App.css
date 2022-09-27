@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar a {
+  color: white;
+  text-decoration: none;
+  margin-left: 1rem;
+}
+.navbar a:hover {
+  color: rgb(24, 208, 232);
+}
